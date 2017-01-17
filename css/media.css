@@ -36,6 +36,10 @@
 	.contact-text{
 		text-align:left;
 	}
+
+	.margin-on{
+	  text-align:left;
+	}
 }
 
 @media(max-width:992px){
@@ -89,6 +93,7 @@
 		color:#000;
 		background-color:#FACC67
 	}
+
 
 	.contact-headline{
 		text-align:center;
@@ -176,6 +181,10 @@
 		margin-bottom:0;
 	}
 
+	.margin-on{
+	  text-align:center;
+	}
+
 	/**NAVBAR MOBILE**/
 	.nav li a{color:#666;border-radius:0px;margin-left:0;margin-top:0;padding-bottom:10px;}
 	.navbar-nav li a{color:#666;background-color:white;border-radius:none;border:none;text-align:center;}
@@ -219,3 +228,20 @@
 	.social-footer{text-align:center;}
 }
 
+@media(max-width:334px){
+	.navbar-toggle{
+		padding:10px;
+	}
+
+	img.logo{
+		margin-left:0px;
+	}
+
+	h2{
+		font-size:45px;
+	}
+
+	.home-text h2{
+		font-size:45px;
+	}
+}

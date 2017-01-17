@@ -14,8 +14,8 @@ h1{
 }
 
 h2{
-	padding-left:25px;
-	font-size:36px;
+/*	padding-left:25px;
+*/	font-size:36px;
 	/*font-weight:bold;*/
 }
 
@@ -46,7 +46,12 @@ p.white-txt{
 
 .home-text h2{
 	font-size:50px;
-	color
+	padding-left:25px;
+}
+
+
+.margin-off{
+	margin:0 !important;
 }
 
 /*.gallery h2{
@@ -254,7 +259,7 @@ img.logo{
 }
 
 .cta-btn a{
-	margin:20px 0px 20px 25px;
+	margin:20px 20px 20px 25px;
 /*	background-color:#007bc2;
 */	
 	background-color:#FACC67;
@@ -276,7 +281,7 @@ img.logo{
 }
 
 .cta-btn-ghost a{
-	margin:20px 0px 20px 25px;
+	margin:20px 20px 20px 25px;
 /*	background-color:#007bc2;
 */	
 	border:3px solid #FACC67;
