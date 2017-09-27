@@ -1,8 +1,8 @@
 # EDM-Club.github.io
 
-###Designed by Rich Prior | richpriordesign.com
+### Designed by Rich Prior | richpriordesign.com
 
-##Improvements in 2.0:
+## Improvements in 2.0:
 
 Added hero duotone images to bookcollection.html and reservations.
 
